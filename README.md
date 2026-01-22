@@ -88,12 +88,13 @@ cd NuanceDataEngine
 pip install fastapi uvicorn psycopg2 nltk
 python server.py
 
-### 3. 启动前端
+### 2. 启动前端
+```bash
 cd nuance-web
 npm install
 npm run dev
 
-* **访问地址：http://localhost:3000即可使用
+***访问地址：http://localhost:3000即可使用
 
 ## 💌 致谢与感悟 (Epilogue)
 
