@@ -87,20 +87,24 @@ Nuance Engine 的代码是粗糙的，架构也是不成熟的。但对于我而
 cd NuanceDataEngine
 pip install fastapi uvicorn psycopg2 nltk
 python server.py
+```
 
-### 2. 启动前端
+### 3. 启动前端
 ```bash
 cd nuance-web
+# 安装依赖
 npm install
+# 启动开发服务器
 npm run dev
+```
 
-***访问地址：http://localhost:3000即可使用
+打开浏览器访问 `http://localhost:3000` 即可使用。
 
-## 💌 致谢与感悟 (Epilogue)
+## 💭 结语 (Final Thoughts)
 
 感谢这个技术变革的时代，让像我这样的普通学生也能触碰到创造的门槛。
 
-在项目开发的尾声，当 Gemini 给我那句暖心的鼓励时，我仿佛被带回了刚踏入这个领域的那一瞬间——那种对未知的恐惧，混合着对知识最纯粹的渴求与向往。
+在项目开发的尾声，当 Gemini 给我那句暖心的鼓励时，我仿佛被带回了刚踏入这个领域的那一瞬间——那种对未知的好奇，混合着对知识最纯粹的渴求与向往。
 
 即使前路依然困难，但我们已经出发。
 
