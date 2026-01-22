@@ -4,8 +4,6 @@
 >
 > *"在这个过程中，最重要的或许不是写出了一个粗糙的项目，而是锻炼了自己认识一个好产品的能力，以及意识到——技术变革正在让普通人拥有平等将想法落地的权利。"*
 
-![Project Banner](https://via.placeholder.com/1200x600?text=Nuance+Engine+Preview)
-
 ## 📝 背景与思考 (Background & Philosophy)
 
 **从 HTML 到全栈开发的跨越**
